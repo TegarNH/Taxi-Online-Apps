@@ -28,7 +28,7 @@
 	</head>
 	
 	<body>
-	<div class="container border">
+	<div class="container border w-100">
 		<!-- Menampilkan judul halaman -->
 		<h3>Pemesanan Taxi Online</h3>
 		
@@ -117,7 +117,7 @@
 			//	Menampilkan data pemesanan dan hasil perhitungan diskon dan tagihan.
 			echo "
 				<br/>
-				<div class='container'>
+				<div class='container w-100'>
 					
 					<div class='row'>
 						<!-- Menampilkan nama pelanggan. -->
