@@ -1,10 +1,6 @@
 # Taxi Online Apps
 
-Simple Calculator Apps is an application created to perform simple calculations of two numbers. This calculator can calculate Addition, Subtraction, Multiplication and Division operations simultaneously. This program is designed with an attractive and simple appearance so that users can operate the program easily. This program is made using **HTML (Hypertext Markup Language)**, **CSS (Cascading Style Sheet)** and **PHP (Hypertext Preprocessor)** programming languages.
-
-<img src="https://res.cloudinary.com/dzskwtwm7/image/upload/v1677153229/1_blgqsu.png" width="500">
-<img src="https://res.cloudinary.com/dzskwtwm7/image/upload/v1677153229/2_ywbzgk.png" width="400">
-<br/>
+Taxi Online Apps is an application created to make online taxi bookings. This application can calculate the cost of the trip based on the distance traveled. The program is designed with a simple interface so that users can operate the program easily. This program is made using **HTML (Hypertext Markup Language)**, **CSS (Cascading Style Sheet)** and **PHP (Hypertext Preprocessor)** programming languages.
 
 ## Table of Contents
 
@@ -19,12 +15,9 @@ Simple Calculator Apps is an application created to perform simple calculations 
 
 ## Features
 
-- Addition operation of two numbers.
-- Subtraction operation of two numbers.
-- Multiplication operation of two numbers.
-- Division operation of two numbers.
-- Calculation result is displayed with thousands separator.
-- Recalculate button to make it easier to do the calculation again.
+- Validate user input if there are empty inputs.
+- Displays the entered data and the total cost of the trip.
+- Responsive display for every device.
   <br/>
 
 ## Built with

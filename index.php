@@ -9,7 +9,7 @@
   sort($mobil);
 
 	//	Instruksi Kerja Nomor 4.
-	/* 
+	/**
     Fungsi untuk menghitung total tagihan perjalanan taxi online.
     Fungsi ini menerima parameter berupa variabel jarak dan harga.
     Fungsi ini akan mengembalikan nilai berupa perkalian antara variabel jarak dengan harga.
@@ -82,7 +82,6 @@
 		if(isset($_POST['Pesan'])) {
 			
 			//	Variabel $dataPesanan berisi data-data pemesanan dari form dalam bentuk array.
-			
 			$dataPesanan = array(
 				'nama' => $_POST['nama'],
 				'noHP' => $_POST['noHP'],
